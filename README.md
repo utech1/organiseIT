@@ -1,4 +1,0 @@
-organiseIT
-==========
-
-Organizasyon
